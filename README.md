@@ -10,11 +10,11 @@ track savings goals.
 
 ## 👥 Team Members
 
-| Member | Name | Role | Files |
-|--------|------|------|-------|
-| Member 1 | (write your name) | Foundation — Input & Menu | Transaction.h, User.h, main.cpp |
-| Member 2 | Satvik | Storage — File Handling | Account.h |
-| Member 3 | (write their name) | Brain — Reports & Analysis | Budget.h, ReportEngine.h |
+| Member | Role | Files |
+|--------|------|-------|
+| Member 1 | Foundation — Input & Menu | Transaction.h, User.h, main.cpp |
+| Member 2 | Storage — File Handling | Account.h |
+| Member 3 | Brain — Reports & Analysis | Budget.h, ReportEngine.h |
 
 ---
 
