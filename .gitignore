@@ -1,0 +1,14 @@
+# Compiled files - dont upload these
+*.exe
+*.o
+*.out
+
+# Data file - each person has their own
+data.txt
+
+# VS Code settings folder
+.vscode/
+
+# Windows system files
+Thumbs.db
+desktop.ini
