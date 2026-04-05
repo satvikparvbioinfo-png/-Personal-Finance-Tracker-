@@ -35,7 +35,7 @@ public:
     // destructor - nothing to clean up here
     ~Account() {}
 
-    // getters - for reading totals from outside the class
+    // getters - for reading totals from outside the classg
     float getTotalIncome()  { return totalIncome; }
     float getTotalExpense() { return totalExpense; }
 
