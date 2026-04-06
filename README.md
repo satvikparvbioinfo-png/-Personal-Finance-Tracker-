@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 💰 Personal Finance Tracker
 C++ OOP Group Project — 2nd Semester | B.Tech Bioinformatics
 A menu-driven Personal Finance Tracker built in C++ using Object Oriented Programming concepts. Allows users to track income and expenses, generate financial reports, set budgets, manage savings goals and track monthly student allowance.
@@ -106,3 +107,6 @@ Compiler — g++ MinGW on Windows
 
 🔗 Repository
 https://github.com/satvikparvbioinfo-png/-Personal-Finance-Tracker-
+=======
+
+>>>>>>> 2a38b247aa3b46e4efb33a56f52498adb53b4385
